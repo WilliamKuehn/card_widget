@@ -1,0 +1,1 @@
+I made a card widget meant for a presentation in class.
